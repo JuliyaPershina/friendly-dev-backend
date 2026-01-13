@@ -57,8 +57,4 @@ export default ({ env }) => ({
     encryptionKey: env('ENCRYPTION_KEY'),
   },
 
-  cookies: {
-    secure: true,
-    sameSite: 'none',
-  },
 });
