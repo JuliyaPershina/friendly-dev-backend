@@ -26,16 +26,6 @@
     "date": {
       "type": "date"
     },
-    "cover": {
-      "type": "media",
-      "multiple": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "content": {
       "type": "text"
     }
